@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xml>
 <skills>
-    <codingskills>
         <skill>
             <language>JavaScript</language>
             <description>Trained in JavaScript at IBA during Multimediadesigner and Web Development studies.</description>
@@ -22,5 +21,19 @@
             <description>Trained in HTML at IBA during Multimediadesigner and Web Development studies.</description>
             <experience>0,25 Years of school work</experience>
         </skill>
-    </codingskills>
+        <skill>
+            <program>Photoshop</program>
+            <description>Trained in Photoshop at IBA during Multimediadesigner studies.</description>
+            <experience>2 Years of school work</experience>
+        </skill>
+        <skill>
+            <program>Illustrator</program>
+            <description>Trained in Illustrator at IBA during Multimediadesigner studies.</description>
+            <experience>2 Years of school work</experience>
+        </skill>
+        <skill>
+            <program>After Effects</program>
+            <description>Trained in After effects at IBA during Multimediadesigner studies.</description>
+            <experience>1,5 Years of school work</experience>
+        </skill>
 </skills>
